@@ -210,31 +210,9 @@ java -jar target/kasir-koperasi-desa-1.0.0-jar-with-dependencies.jar
 
 ---
 
-## 📸 Screenshot
-
-### Form Login
-![Login](screenshots/login.png)
-
-### Dashboard Kasir
-![Dashboard Kasir](screenshots/dashboard-kasir.png)
-
-### Dashboard Pimpinan
-![Dashboard Pimpinan](screenshots/dashboard-pimpinan.png)
-
-### Data Barang
-![Data Barang](screenshots/data-barang.png)
-
-### Transaksi Penjualan
-![Transaksi](screenshots/transaksi.png)
-
-### Laporan
-![Laporan](screenshots/laporan.png)
-
----
-
 ## 🤝 Kontributor
 
-- **Fahru Rozi** - [GitHub](https://github.com/fahrurozi911)
+- **Ahmad Fahru Rozi** - [GitHub](https://github.com/fahrurozi911)
 
 ---
 
